@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "name": "Mäklarbetyg.se",
+      "website": "https://mv.bayo.se",
+      "technologies": ["Nodejs", "Express", "MongoDB", "Git", "Typescript"],
+      "description": "Byggd  i Vue ramverket för frontend och Node/Express För Backend. MEVN-APP, en Platform Att söka upp Mäklare och betygsätta din upplevesel med hur de hanterat sälja ditt hus eller lägenhet. Inspiration till denna appen va att jag såg att det saknades en oberoende platform för folk att dela med sig av sina upplevelser med mäklare.",
+      "github": "",
+      "image": ""
+    },
+    {
+      "id": 1,
+      "name": "WeatherApp",
+      "website": "https://app.adebayo.se",
+      "technologies": ["React"],
+      "description": " React Projekt som hämta väder information från ett api.",
+      "github": "https://github.com/Braggedtooth/WeatherApp",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "TodoApp",
+      "technologies": ["Javascript"],
+      "description": " En skolprojekt för att lära sig eller utforska Jquery",
+      "github": "",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "RecipeApp",
+      "website": "https://611ffcd6bf6734c3ccc1df17--amazing-feynman-27c929.netlify.app/",
+      "technologies": ["Angular", "Laravel"],
+      "description": "En recept app där man kan söka efter recepter och blädrra genom olika kategorier från en public API, appen har även en backend som sköter authentisering av användaren och sina favorit recept",
+      "github": "",
+      "image": ""
+    }
+  ]
+}
