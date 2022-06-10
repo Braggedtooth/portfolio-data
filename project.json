@@ -5,7 +5,7 @@
       "name": "Mäklarbetyg.se",
       "website": "https://mv.bayo.se",
       "technologies": ["Nodejs", "Express", "MongoDB", "Git", "Typescript"],
-      "description": "Byggd  i Vue ramverket för frontend och Node/Express För Backend. MEVN-APP, en Platform Att söka upp Mäklare och betygsätta din upplevesel med hur de hanterat sälja ditt hus eller lägenhet. Inspiration till denna appen va att jag såg att det saknades en oberoende platform för folk att dela med sig av sina upplevelser med mäklare.",
+      "description": "Byggd  i Nextjs ramverket för frontend och Node/Express För Backend. MEVN-APP, en Platform Att söka upp Mäklare och betygsätta din upplevesel med hur de hanterat sälja ditt hus eller lägenhet. Inspiration till denna appen va att jag såg att det saknades en oberoende platform för folk att dela med sig av sina upplevelser med mäklare.",
       "github": "",
       "image": ""
     },
