@@ -1,13 +1,14 @@
 {
-  "name": "Carolina Armas Veliz",
-  "dob": "1996, 12 13",
+  "name": "Adebayo Ajayi",
+  "dob": "1996/12/13",
   "city": "Stockholm,Sweden",
   "github": "https://github.com/Braggedtooth",
   "linkedin": "https://www.linkedin.com/in/adebayoajayi/",
   "school": "Chas Academy",
   "worktitle": "Software Engineer",
+  "skillset":["React","Nodejs", "Nextjs", "Nestjs", "MongoDb", "Rest Api", "Graphql", "Angular", "Laravel", "PHP","Javascript", "Typescript", "CI/CD", "Unit Test", "UI/UI", "Devops", "Docker", "Event Driven Architecture", "Webhooks","Microservices", "Documentation"],
   "work": "",
-  "about": "I am studying Full-stack Development at Chas Academy, am learning a lot of different technology like Laravel, React , Angular, Git , JavaScript, Docker and many more.I am currently in search for LIA(Learning at work).It is an opportunity for me to apply my skill and learn even more about the industry in a working environment.",
+  "about": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
   "contact": {
     "telephone": 46720326437,
     "email": "me@bayo.se"
